@@ -6,12 +6,12 @@
 }
 
 body{
-  background-color: #222;
+  background-color: #1a1a2e;
 }
 .card{
   width: 90%;
   max-width: 470px;
-  background: linear-gradient(135deg,#00feba,#5b548a);
+  background: linear-gradient(135deg,#00d4ff,#4b0082);
   color: #fff;
   margin: 100px auto 0;
   border-radius: 20px;
@@ -30,8 +30,8 @@ body{
 .search input{
   border: 0;
   outline: 0;
-  background: #ebfffc;
-  color: #555;
+  background: #e0f7ff;
+  color: #333;
   padding: 10px 25px;
   height: 60px;
   border-radius: 30px;
@@ -43,12 +43,11 @@ body{
 .search button{
   border: 0;
   outline: 0;
-  background: #ebfffc;
+  background: #e0f7ff;
   border-radius: 50%;
   width: 60px;
   height: 60px;
   cursor: pointer;
-
 }
 .search button img{
   width: 16px;
